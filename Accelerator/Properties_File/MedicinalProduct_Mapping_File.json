@@ -1,0 +1,50 @@
+{
+	"Attributes":
+	{
+	"Name":"",
+	"Type":"",
+	"Manufacturer":"",
+	"IsInternalProduct":"",
+	"Sys Record Id":"",
+	"Sys Created Id":"",
+	"Sys Data Source":"",
+	"Sys Tenant":"",
+	"Sys Delete Flag":"",
+	"ProductStatus":"",
+	"SalesChannel":"",
+	"ProductLine":"",
+	"IsStrategicProduct":"",
+	"ProductOrder":"",
+	"Country":"",
+	"MarketingStartDate":"",
+	"MarketingEndDate":"",
+	"MarketingHolder":"",
+	"ATCCode":"",
+	"DoseForm":"",
+	"Dose":"",
+	"PackageType":"",
+	"PackageCount":"",
+	"IsGenericProduct":"",
+	"IsPrescriptionProduct":"",
+	"IsPipelineProduct":"",
+	"Connector":"",
+	"Concentration":"",
+	"VolumeNormalized":"",
+	"UnitFactor":"",
+	"DaysofTreatmentFactor":"",
+	"VolumeEquivalent":""
+}
+,
+"System_Variables":{
+"uri":"",
+"startDate":"",
+"endDate":"",
+"createdBy":"",
+"createdTime":"",
+"updatedBy":"",
+"updatedTime":""
+},
+	"Nested" : {
+	"Identifiers":{"Type":"","CountryCode":"","ID":""}
+	}
+}

@@ -1,0 +1,39 @@
+{
+"Attributes":{
+"FirstName":"",
+"LastName":"",
+"MiddleName":"",
+"Status":"",
+"Gender":"",
+"InternationalName":"",
+"PreferredName":"",
+"Prefix":"",
+"ProfType":"",
+"SuffixName":"",
+"Title":"",
+"CountryCode":"",
+"StatusReasonCode":"",
+"StatusUpdateDate":"",
+"RecordOwner":"",
+"ProfessionalTitle":"",
+"ThoughtLeader":"",
+"DoNotCall":"",
+"DataProviderOptOut":"",
+"YoB":"",
+"BCUWorkLocation":""
+},
+"System_Variables":{
+"uri":"",
+"startDate":"",
+"endDate":"",
+"createdBy":"",
+"createdTime":"",
+"updatedBy":"",
+"updatedTime":""
+},
+"Nested":{
+	"Identifiers":{"Type":"","ID":"","Status":""},
+	"Phone":{"Type":"","Number":""},
+	"Specialities":{"SpecialtyType":"","Specialty":""}
+}
+}

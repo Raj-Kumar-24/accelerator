@@ -1,0 +1,30 @@
+{
+	"Attributes":{
+	"Name":"",
+	"Type":"",
+	"Status":"",
+	"Manufacturer":"",
+	"SFMCCode":"",
+	"GlobalHierarchy":"",
+	"IsInternalProduct":"",
+	"IsMedicalProduct":"",
+	"Sys Record Id":"",
+	"Sys Created Id":"",
+	"Sys Data Source":"",
+	"Sys Tenant":"",
+	"Sys Delete Flag":""
+},
+"System_Variables":{
+"uri":"",
+"startDate":"",
+"endDate":"",
+"createdBy":"",
+"createdTime":"",
+"updatedBy":"",
+"updatedTime":""
+},
+	"Nested" : {
+	"Identifiers" :{"Type":"","Subtype":"","ID":"","Status":"","CountryCode":""},
+	"ParentHierarchy":{"Name":"","Type":""}
+	}
+}

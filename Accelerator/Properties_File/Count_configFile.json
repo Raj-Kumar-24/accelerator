@@ -1,0 +1,7 @@
+{
+    "input_directory": "C:/Accelerator/Input_File/",
+    "output_file": "C:/Accelerator/Output_File/",
+    "user_entities": ["ProductGroup"],
+    "user_sources": ["IQVIA-HDSC"]
+}
+

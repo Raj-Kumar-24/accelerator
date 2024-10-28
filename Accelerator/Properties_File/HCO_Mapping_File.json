@@ -1,0 +1,30 @@
+{
+"Attributes":{
+"Status":"",
+"CompanyType":"",
+"Name":"",
+"CountryCode":"",
+"DoingBusinessAsName":"",
+"Sector":"",
+"StatusReasonCode":"",
+"StatusUpdateDate":"",
+"ClassofTrade":"",
+"RecordOwner":"",
+"SalesTeamClassification":"",
+"HospitalGrade":"",
+"WebsiteURL":""
+},
+"System_Variables":{
+"uri":"",
+"startDate":"",
+"endDate":"",
+"createdBy":"",
+"createdTime":"",
+"updatedBy":"",
+"updatedTime":""
+},
+"Nested":{
+	"Addresses":{"City":"","Country":"","Identifiers":["Type","ID"],"Bricks":["BrickNumber","BrickName"],"AddressType":"","Status":"","AddressLine1":"","ISO3166-2":"","StateProvince":"","PostalCode":"","Latitude":"","Longitude":""},
+	"Identifiers":{"Type":"","Subtype":"","ID":""}
+}
+}

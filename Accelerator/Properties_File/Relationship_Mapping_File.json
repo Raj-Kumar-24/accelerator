@@ -1,0 +1,30 @@
+{
+"System_Variables":{
+"uri":"",
+"type":"",
+"startDate":"",
+"endDate":"",
+"createdBy":"",
+"createdTime":"",
+"updatedBy":"",
+"updatedTime":""
+},
+"Attributes":
+{
+"Name":"",
+"Country":""
+},
+"startObject":
+{
+"StartObjectURI":"",
+"startObjectType":""
+},
+"endObject":
+{
+"endObjectURI":"",
+"endObjectType":""
+},
+"Nested" : {
+	"Identifiers":{"Type":"","CountryCode":"","ID":""}
+}	
+}
